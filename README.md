@@ -6,4 +6,4 @@ A colorful status (success, error ...) console
 **silaex**
 
 ## License 
-***ISC***
+***MIT***
