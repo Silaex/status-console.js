@@ -17,7 +17,8 @@ A colorful status (success, error ...) console
 3: statusConsole.error('Hey!', 'index.js', '3') // => ERROR index.js:3 >> Hey!
 4: statusConsole.success('Hi!', 'index.js', '3') // => SUCCESS index.js:4 >> Hi!
 5: statusConsole.warn('Hi!') // => WARN >> Hi!
-6: statusConsole.success('Hi!', 'index.js') // => SUCCESS index.js:4 >> Hi!
+6: statusConsole.success('Hi!', 'index.js') // => STATUS-CONSOLE >> message, file or line parameter missing.
+7: statusConsole.info('Hi!', 'index.js', 7) // =>  STATUS-CONSOLE >> Every parameters must be a string.
 ```
 
 ## Author
