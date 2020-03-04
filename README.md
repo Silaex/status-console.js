@@ -4,9 +4,9 @@ A colorful status (success, error ...) console
 
 ## Parameters
 
-*message*: string
-*file*: string
-*line*: string 
+* *message*: string
+* *file*: string
+* *line*: string 
 
 ## Examples
 
