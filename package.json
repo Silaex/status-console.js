@@ -14,7 +14,7 @@
     "node"
   ],
   "author": "silaex",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Silaex/status-console.js/issues"
   },
