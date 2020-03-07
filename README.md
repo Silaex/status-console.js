@@ -12,7 +12,7 @@ A colorful status (success, error ...) console
 
 ```js
 0: // index.js
-1: const statusConsole = require('status-console');
+1: const statusConsole = require('status-console.js');
 2: 
 3: statusConsole.error('Hey!', 'index.js', '3') // => ERROR index.js:3 >> Hey!
 4: statusConsole.success('Hi!', 'index.js', '3') // => SUCCESS index.js:4 >> Hi!
